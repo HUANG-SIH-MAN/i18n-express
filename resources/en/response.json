@@ -1,0 +1,4 @@
+{
+  "helloWorld": "Hello World!",
+  "order": "Thank you for purchasing {{amount}} items"
+}
